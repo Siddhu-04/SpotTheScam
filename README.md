@@ -1,7 +1,3 @@
-Here's your README professionally formatted with better structure, consistent markdown syntax, and clear instructions:
-
----
-
 # 🕵️‍♂️ Spot The Scam
 
 ## 🔍 Job Posting Fraud Detection
